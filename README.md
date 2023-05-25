@@ -1,4 +1,4 @@
-Sure! Here's the translated documentation for the given code:
+
 
 # illdy
 
